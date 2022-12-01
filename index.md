@@ -6,3 +6,5 @@ layout: home
 ---
 
 Hello, world!
+
+Some more text here.
